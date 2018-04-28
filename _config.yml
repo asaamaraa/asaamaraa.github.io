@@ -4,8 +4,8 @@ email:
 description: "everything about the universe"
 baseurl: ""
 url: "http://asaamaraa.github.io"
-twitter_username: asaamaraa
-github_username:  asaamraa
+twitter_username: 
+github_username:
 
 # Build settings
 markdown: kramdown
