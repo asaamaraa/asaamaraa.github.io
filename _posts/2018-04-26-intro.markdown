@@ -16,7 +16,9 @@ date:   2018-04-26 15:39:00
 
 **Ингээд цаг хугацааны талаарх бидний ойлголтыг өөрчилсөн алдартай эрдэмтний гарын үсэгтэй номын зургийг энэ постыг бичиж байхдаа оруулъя гэж бодлоо.**
 
-<div class="imgright imgcap">
+<div class="imgcenter imgcap">
 <img src="/assets/time_curve.jpg">
 <div class="thecap">@KIT library</div>
 </div>
+
+
